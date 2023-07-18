@@ -1,1 +1,1 @@
-# tm4c123g-hc-sr04
+# Control the HC-SR04 from the TTM4C123G
